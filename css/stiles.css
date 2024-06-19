@@ -470,7 +470,7 @@ font-weight: 500;
 
  .footer-form-class {
     display: flex;
-
+    gap: 24px;
  }
 
  .footer-label-class {
