@@ -508,6 +508,10 @@ font-weight: 500;
     border-radius: 4px;
  }
 
+ .footer-svg {
+    margin-left: 16px;
+ }
+
 
  element.style {
     display: flex;
