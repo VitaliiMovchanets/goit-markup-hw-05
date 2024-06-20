@@ -732,11 +732,11 @@ border-color: #4D5AE5;
     fill: transparent;
  }
 
- .span-class-checkbox:checked {
-    background-color: #404bbf;
-    border: none;
-    fill: #F4F4FD;
- }
+  .visually-hidden:checked+.label-class-checkbox .span-class-checkbox {
+      background-color: #404bbf;
+      border: none;
+      fill: #F4F4FD;
+  }
 
  .checkbox-a {
 color: #4d5ae5;
