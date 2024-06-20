@@ -661,6 +661,8 @@ transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
     transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
  }
 
+ .modal-container-input:hover,
+ .modal-container-input:focus,
  .modal-container-icon:hover,
   .modal-container-icon:focus {
     border-color: #4D5AE5;
